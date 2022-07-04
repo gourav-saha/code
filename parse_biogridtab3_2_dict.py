@@ -9,7 +9,7 @@ from tqdm import tqdm
 """
 """
 def main(BioGrid_tsv,subset):
-    tsv2LL(BioGrid_tsv,"Hs")
+    tsv2LL(BioGrid_tsv,subset)
 
 
 
